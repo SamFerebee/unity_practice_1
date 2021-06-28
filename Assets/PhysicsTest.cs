@@ -47,3 +47,5 @@ public class PhysicsTest : MonoBehaviour
 //     }
 // }
 //collider.gameObject gives you the gameobject tied to that trigger
+
+//practice rotation

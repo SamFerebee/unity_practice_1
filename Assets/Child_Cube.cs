@@ -47,3 +47,5 @@ public class Child_Cube : MonoBehaviour
         
     }
 }
+
+///remember inhertiance
